@@ -1,1 +1,2 @@
 Some text staff is here
+Text added in master branch
